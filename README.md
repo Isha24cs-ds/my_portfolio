@@ -6,7 +6,7 @@ Showcasing my journey, achievements, and skills in one place.
 ---
 
 ## 🌟 Live Portfolio
-🔗 [Click Here to Visit](https://<2k24csds1b2410587-bot>.github.io/<my_portfolio>/)
+🔗 [Click Here to Visit](https://Isha24cs-ds.github.io/my_portfolio/.github.io/<my_portfolio>/)
 
 ---
 
@@ -16,7 +16,10 @@ Showcasing my journey, achievements, and skills in one place.
 - 📊 Academic Performance:  
   - 10th: **94%**  
   - 12th: **90%**  
-  - 1st Sem B.Tech: **9.18 SGPA**  
+  - BTECH--
+  - 1st Sem : **9.18 SGPA**
+  - 2nd Sem : **8.77**
+  - 3rd Sem : **9.16** 
 
 ---
 
@@ -31,7 +34,7 @@ Showcasing my journey, achievements, and skills in one place.
 
 ## 🔗 Connect with Me
 - 💼 LinkedIn: [www.linkedin.com/in/isha-4a3387343](https://www.linkedin.com/in/isha-4a3387343)  
-- 🖥️ GitHub: [2k24csds1b2410587-bot](https://github.com/2k24csds1b2410587-bot)  
+- 🖥️ GitHub: [2k24csds1b2410587-bot](https://github.com/Isha24cs-ds)  
 
 ---
 
