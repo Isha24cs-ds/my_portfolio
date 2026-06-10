@@ -6,7 +6,7 @@ Showcasing my journey, achievements, and skills in one place.
 ---
 
 ## 🌟 Live Portfolio
-🔗 [Click Here to Visit](https://Isha24cs-ds.github.io/my_portfolio/.github.io/<my_portfolio>/)
+[🔗 Click Here to Visit](https://isha24cs-ds.github.io/my_portfolio/)
 
 ---
 
